@@ -1,0 +1,8 @@
+*.dll
+Debug/
+Release/
+x64/
+Engine.vcxproj
+Engine.vcxproj.filters
+Engine.vcxproj.user
+stdafx.h
